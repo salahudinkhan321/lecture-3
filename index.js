@@ -1,21 +1,21 @@
 
 
-// const ahmad = "i am ahmad"
+const ahmad = "i am ahmad"
 
-// let ahmad2 = 345
-// ahmad3 = 2452435
+let ahmad2 = 345
+ahmad3 = 2452435
 
 
-// var ahmad1 = 123
+var ahmad1 = 123
 
-// console.log(ahmad)
-// console.log(ahmad1)
-// console.log(ahmad2)
-// console.log(ahmad3)
+console.log(ahmad)
+console.log(ahmad1)
+console.log(ahmad2)
+console.log(ahmad3)
 
-// let salahudin = "fdasdfas fasdflkjasdf  asdlkfjasdljf "
+let salahudin = "fdasdfas fasdflkjasdf  asdlkfjasdljf "
 
-// let ahmad = {name: "ahmad", rollNo: 123123, college: "faiq"}
+let ahmad = {name: "ahmad", rollNo: 123123, college: "faiq"}
 
 ahmad = 234589023859234
 
